@@ -33,9 +33,11 @@ python emoji.py
 Example output will be saved in your project folder as an image.
 
 ## 📂 Project Structure
+```
 basic-emoji-maker/
 │── emoji.py        # Main script for emoji creation
 │── README.md       # Project documentation
+```
 
 ## 🤝 Contributing
 
