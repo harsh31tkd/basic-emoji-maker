@@ -37,12 +37,6 @@ basic-emoji-maker/
 │── emoji.py        # Main script for emoji creation
 │── README.md       # Project documentation
 
-📸 Example
-
-Here’s a sample generated emoji:
-
-🙂 😎 😂
-
 🤝 Contributing
 
 Pull requests are welcome! For major changes, open an issue first to discuss what you’d like to add.
