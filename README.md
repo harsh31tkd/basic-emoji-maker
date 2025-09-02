@@ -23,7 +23,7 @@ cd basic-emoji-maker
 pip install pillow
 ```
 
-##▶️ Usage
+## ▶️ Usage
 
 Run the script to generate emojis:
 ```
@@ -32,23 +32,23 @@ python emoji.py
 
 Example output will be saved in your project folder as an image.
 
-##📂 Project Structure
+## 📂 Project Structure
 basic-emoji-maker/
 │── emoji.py        # Main script for emoji creation
 │── README.md       # Project documentation
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Pull requests are welcome! For major changes, open an issue first to discuss what you’d like to add.
 
-##📄 License
+## 📄 License
 
 This project is licensed under the MIT License – feel free to use and modify it.
 
 
 ---
 
-##👉 Now do this:
+## 👉 Now do this:
 1. Save the above as `README.md` in your project folder.  
 2. Stage and commit:
    ```bash
