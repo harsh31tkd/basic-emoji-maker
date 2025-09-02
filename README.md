@@ -47,18 +47,3 @@ This project is licensed under the MIT License – feel free to use and modify i
 
 
 ---
-
-## 👉 Now do this:
-1. Save the above as `README.md` in your project folder.  
-2. Stage and commit:
-   ```bash
-   git add README.md
-   git commit -m "Added README for Emoji Maker"
-    ```
-
-3. Push with force:
-```
-git push origin main --force
-```
-
-✅ After this, your GitHub repo will show the README nicely formatted.
