@@ -48,4 +48,8 @@ Pull requests are welcome! For major changes, open an issue first to discuss wha
 This project is licensed under the MIT License – feel free to use and modify it.
 
 
+Made with ❤️ by [Harsh](https://github.com/harsh31tkd)
+
+
+
 ---
